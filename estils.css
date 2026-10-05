@@ -18,3 +18,17 @@ a:hover {
   color: #c62828;
   text-decoration: underline;
 }
+
+.menu {
+  background-color: #1a237e;
+  padding: 10px;
+  text-align: center;
+}
+
+.menu a {
+  color: #ffffff;
+}
+
+.pie {
+  text-align: center;
+}
