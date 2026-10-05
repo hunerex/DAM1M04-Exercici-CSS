@@ -48,3 +48,11 @@ a:hover {
 #lista > li:last-child {
   color: #4a148c;
 }
+
+h2::before {
+  content: "📌 ";
+}
+
+p::after {
+  content: " ✏️";
+}
