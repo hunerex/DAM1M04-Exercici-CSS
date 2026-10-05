@@ -32,3 +32,19 @@ a:hover {
 .pie {
   text-align: center;
 }
+
+#lista {
+  background-color: #e8eaf6;
+}
+
+#lista > li {
+  color: #1b5e20;
+}
+
+#lista > li:first-child {
+  color: #b71c1c;
+}
+
+#lista > li:last-child {
+  color: #4a148c;
+}
